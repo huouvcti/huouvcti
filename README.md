@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 
 
 ![huouvcti's GitHub stats](https://github-readme-stats.vercel.app/api?username=huouvcti&theme=dracula&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huouvcti&layout=compact&theme=dracula)
