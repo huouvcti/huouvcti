@@ -49,6 +49,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <br>
+ 
+  <img src="https://img.shields.io/badge/passport-34E27A?style=for-the-badge&logo=passport&logoColor=white"/>
   <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
   <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white"/>
   
@@ -74,11 +76,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <br>
 
-  
-  
-
-  <br>
-
   <h3>AI</h3>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -89,13 +86,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/yolo v5, v7, v8-green?style=for-the-badge&logo=yolo&logoColor=white"/>
-  
 
-  
-  
-
-  
-
+ 
   <h3>Etc ...</h3>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=R&logoColor=white"/>
@@ -103,9 +95,6 @@ Here are some ideas to get you started:
   <br>
   <br>
   <br>
-
-
-
 
   <h3>OS</h3>
   <img src="https://img.shields.io/badge/windows 7, 8, 10-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
