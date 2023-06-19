@@ -1,5 +1,57 @@
 ### Hi there 👋
 
+Hello, I'm Na-gyoneg Kim (김나경) <br>
+I work for a company, but I'm still a college student. <br>
+I am going to graduate in 2024.
+
+
+<!--
+<h3>Concat</h3>
+-->
+
+<div>
+ <ul>
+  <li>Phone: 010-2534-6610</li>
+  <li>Email: huouvcti@gmail.com</li>
+  <li>Blog: </li>
+ </ul>
+</div>
+
+
+
+
+
+#
+
+
+
+<h3>⭐ Work experience ⭐</h3>
+
+<div>
+ <ul>
+  <li>
+   <b>KETI 한국전자기술연구원</b>
+   <ul>
+    <li>근무기간: 2023.03 ~ (재직중) </li>
+    <li>소속부서: 스마트네트워크연구센터</li>
+    <li>직급: 연구원</li>
+   </ul>
+   
+  </li>
+ 
+ <br>
+ <br>
+  <li>
+   <b>Hoseo Univ. UIT-LAB</b>
+   <ul>
+    <li>근무기간: 2022.06 ~ 2023.06: </li>
+    <li>직급: 학부생 연구원</li>
+   </ul>
+   
+  </li>
+ </ul>
+</div>
+
 
 
 
