@@ -79,6 +79,8 @@ Here are some ideas to get you started:
 -->
 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=huouvcti)](https://solved.ac/huouvcti)
+
  <h3>⭐ Commit State ⭐</h3>
  <div style="display:flex;">
    <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=huouvcti&theme=dracula&show_icons=true"/>
