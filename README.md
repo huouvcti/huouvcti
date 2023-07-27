@@ -87,7 +87,7 @@ Here are some ideas to get you started:
    <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huouvcti&layout=compact&theme=dracula&hide=css,php" />
  </div>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=huouvcti)](https://github.com/anuraghazra/github-readme-stats)
  
  #
  
