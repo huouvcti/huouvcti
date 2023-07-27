@@ -84,7 +84,7 @@ Here are some ideas to get you started:
  <h3>⭐ Commit State ⭐</h3>
  <div style="display:flex;">
    <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=huouvcti&theme=dracula&show_icons=true"/>
-   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huouvcti&layout=compact&theme=dracula" />
+   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huouvcti&layout=compact&theme=dracula&hide=css" />
  </div>
  
  #
