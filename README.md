@@ -58,36 +58,80 @@ I am going to graduate in 2024.
 
 #
 
+<h3>⭐ Experienced Skills ⭐</h3>
 
-<!--
-**huouvcti/huouvcti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display:flex; justify-content: center;">
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+ <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
+<br>
+<div style="display:flex;">
+ <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white"/>
+ <img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
+ <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+ <img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white"/>
+ <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+</div>
+<br>
+<div style="display:flex;">
+ <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+ <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+ <img src="https://img.shields.io/badge/pm2-2B037A?style=for-the-badge&logo=pm2&logoColor=white"/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/gin-008ECF?style=for-the-badge&logo=gin&logoColor=white"/>
+ <img src="https://img.shields.io/badge/gorm-00ADD8?style=for-the-badge&logo=gorm&logoColor=white"/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+ <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white"/>
+</div>
+<br>
+<div style="display:flex;">
+ <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+ <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+ <img src="https://img.shields.io/badge/appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white"/>
+</div>
+<br>
+<div style="display:flex;">
+ <img src="https://img.shields.io/badge/ubuntu 18.04, 22.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+ <img src="https://img.shields.io/badge/virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+ <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+ <img src="https://img.shields.io/badge/synology Nas-B5B5B6?style=for-the-badge&logo=synology&logoColor=white"/>
+</div>
 
-Here are some ideas to get you started:
+.<br>
+.<br>
+.<br>
+<div style="display:flex;">
+ <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+ <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+ <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+</div>
 
 
 
+#
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=huouvcti)](https://solved.ac/huouvcti)
 
  <h3>⭐ Commit State ⭐</h3>
+ 
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=huouvcti)](https://solved.ac/huouvcti)
+ 
  <div style="display:flex;">
    <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=huouvcti&theme=dracula&show_icons=true"/>
    <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huouvcti&layout=compact&theme=dracula&hide=css,php" />
  </div>
  
  #
+ 
+
+
 
  <!--
  
