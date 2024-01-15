@@ -88,6 +88,8 @@ Here are some ideas to get you started:
  </div>
  
  #
+
+ <!--
  
 <h3>⭐ Experienced Skills ⭐</h3>
 <div> 
@@ -184,6 +186,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   ㆍㆍㆍ
 </div>
+
+
+-->
 
 
 
