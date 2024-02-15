@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 Hello, I'm Na-gyoneg Kim (김나경) <br>
-I work for a company, but I'm still a college student. <br>
-I am going to graduate in 2024.
 
 
 <!--
