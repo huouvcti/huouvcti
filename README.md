@@ -35,7 +35,7 @@ Hello, I'm Na-gyoneg Kim (김나경) <br>
               <li>직급: 연구원</li>
               <li>직무: 풀스택(프론트엔드, 백엔드) 개발
                   <ul>
-                      <li>프론트엔드: React(Vite, TypeScript), Tree.js</li>
+                      <li>프론트엔드: React(Vite, TypeScript), Three.js</li>
                       <li>백엔드
                           <ul>
                               <li>Rest API 서버: Go, go-fiber, gorm, MariaDB</li>
