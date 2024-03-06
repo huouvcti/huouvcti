@@ -38,7 +38,7 @@ Hello, I'm Na-gyoneg Kim (김나경) <br>
                       <li>프론트엔드: React(Vite, TypeScript), Three.js</li>
                       <li>백엔드
                           <ul>
-                              <li>Rest API 서버: Go, go-fiber, gorm, MariaDB</li>
+                              <li>REST API 서버: Go, go-fiber, gorm, MariaDB</li>
                               <li>NginX Plus, Docker (서버 환경: Ubuntu 22.04)</li>
                           </ul>
                       </li>
