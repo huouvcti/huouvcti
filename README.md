@@ -33,10 +33,10 @@ Hello, I'm Na-gyoneg Kim (김나경) <br>
               <li>근무기간: 2023.03 ~ (재직중) </li>
               <li>소속부서: 스마트네트워크연구센터</li>
               <li>직급: 연구원</li>
-              <li>직무: 풀스택(프론트엔드, 백엔드) 개발
+              <li>직무: 풀스택(Front-end, Back-end) 개발
                   <ul>
-                      <li>프론트엔드: React(Vite, TypeScript), Three.js</li>
-                      <li>백엔드
+                      <li>Front-end: React(Vite, TypeScript), Three.js</li>
+                      <li>Back-end
                           <ul>
                               <li>REST API 서버: Go, go-fiber, gorm, MariaDB</li>
                               <li>NginX Plus, Docker (서버 환경: Ubuntu 22.04)</li>
@@ -53,10 +53,10 @@ Hello, I'm Na-gyoneg Kim (김나경) <br>
           <ul>
               <li>근무기간: 2022.06 ~ 2023.06: </li>
               <li>직급: 학부생 연구원</li>
-              <li>직무: 풀스택(프론트엔드, 백엔드) 개발 및 AI 학습 모델 생성
+              <li>직무: 풀스택(Front-end, Back-end) 개발 및 AI 학습 모델 생성
                   <ul>
-                      <li>프론트엔드: ejs/css, javaScript</li>
-                      <li>백엔드: Node.js, Express, MySQL (서버 환경: Ubuntu 18.04)</li>
+                      <li>Front-end: ejs/css, javaScript</li>
+                      <li>Back-end: Node.js, Express, MySQL (서버 환경: Ubuntu 18.04)</li>
                       <li>AI: Tensorflow, PyTorch, Yolo_v5, Yolo_v7</li>
                   </ul>
               </li>
