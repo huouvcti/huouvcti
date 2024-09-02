@@ -30,7 +30,7 @@ Hello, I'm Na-gyoneg Kim (김나경) <br>
       <li>
           <b>KETI 한국전자기술연구원</b>
           <ul>
-              <li>근무기간: 2023.03 ~ (재직중) </li>
+              <li>근무기간: 2023.03 ~ 2024.08 </li>
               <li>소속부서: 스마트네트워크연구센터</li>
               <li>직급: 연구원</li>
               <li>직무: 풀스택(Front-end, Back-end) 개발
@@ -51,7 +51,7 @@ Hello, I'm Na-gyoneg Kim (김나경) <br>
       <li>
           <b>Hoseo Univ. UIT-LAB</b>
           <ul>
-              <li>근무기간: 2022.06 ~ 2023.06: </li>
+              <li>근무기간: 2022.06 ~ 2023.06 </li>
               <li>직급: 학부생 연구원</li>
               <li>직무: 풀스택(Front-end, Back-end) 개발 및 AI 학습 모델 생성
                   <ul>
