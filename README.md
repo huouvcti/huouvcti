@@ -22,7 +22,7 @@ Hello, I'm Na-gyoneg Kim (김나경) <br>
 #
 
 
-
+<!--
 <h3>⭐ Work experience ⭐</h3>
 
 <div>
@@ -64,7 +64,7 @@ Hello, I'm Na-gyoneg Kim (김나경) <br>
       </li>
   </ul>
 </div>
-
+-->
 
 
 
