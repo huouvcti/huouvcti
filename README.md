@@ -48,23 +48,10 @@ Hello, I'm Na-gyoneg Kim (김나경) <br>
       </li>
       <br>
       <br>
-      <li>
-          <b>Hoseo Univ. UIT-LAB</b>
-          <ul>
-              <li>근무기간: 2022.06 ~ 2023.06 </li>
-              <li>직급: 학부생 연구원</li>
-              <li>직무: 풀스택(Front-end, Back-end) 개발 및 AI 학습 모델 생성
-                  <ul>
-                      <li>Front-end: ejs/css, javaScript</li>
-                      <li>Back-end: Node.js, Express, MySQL (서버 환경: Ubuntu 18.04)</li>
-                      <li>AI: Tensorflow, PyTorch, Yolo_v5, Yolo_v7</li>
-                  </ul>
-              </li>
-          </ul>
-      </li>
+      
   </ul>
 </div>
--->
+
 
 
 
