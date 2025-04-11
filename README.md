@@ -9,8 +9,8 @@ Hello, I'm Na-gyoneg Kim (김나경) <br>
 
 <div>
  <ul>
-  <li>Phone: 010-2534-6610</li>
-  <li>Email: huouvcti@gmail.com</li>
+  <li>Phone: </li>
+  <li>Email: </li>
   <li>Blog: </li>
  </ul>
 </div>
