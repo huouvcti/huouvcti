@@ -22,6 +22,17 @@ Hello, I'm Na-gyoneg Kim (김나경) <br>
 #
 
 
+ <h3>⭐ Commit State ⭐</h3>
+ 
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=huouvcti)](https://solved.ac/huouvcti)
+ 
+ <div style="display:flex;">
+   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=huouvcti&theme=dracula&show_icons=true"/>
+   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huouvcti&layout=compact&theme=dracula&hide=css,php" />
+ </div>
+ 
+
+
 <!--
 <h3>⭐ Work experience ⭐</h3>
 
@@ -115,14 +126,7 @@ Hello, I'm Na-gyoneg Kim (김나경) <br>
 
 
 
- <h3>⭐ Commit State ⭐</h3>
- 
- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=huouvcti)](https://solved.ac/huouvcti)
- 
- <div style="display:flex;">
-   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=huouvcti&theme=dracula&show_icons=true"/>
-   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huouvcti&layout=compact&theme=dracula&hide=css,php" />
- </div>
+
  
  #
  
